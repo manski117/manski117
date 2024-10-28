@@ -1,7 +1,7 @@
 ![manski117banner2-ezgif com-crop](https://github.com/user-attachments/assets/1a455f44-d5d7-4277-866b-32f36b293a6b)
 
 ## Hi there 👋 I'm Mike
-### Developer, Designer, Educator, Biologist, Gamer, Backpacker and Amateur Astronomer 🔭.
+### Developer 🖥️, Designer 🖌️, Educator 📚, Scientist 🔬, Gamer 🎲, Backpacker :basecamp: and Amateur Astronomer 🔭.
 
 #### 💻 I’m currently working on ...
 - Developing LLM and RAG applications for small businesses and personal applications.
