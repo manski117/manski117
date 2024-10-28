@@ -1,3 +1,5 @@
+![manski117banner2-ezgif com-crop](https://github.com/user-attachments/assets/1a455f44-d5d7-4277-866b-32f36b293a6b)
+
 ## Hi there 👋 I'm Mike
 ### Developer, Designer, Educator, Biologist, Gamer, Backpacker and Amateur Astronomer 🔭.
 
@@ -5,9 +7,6 @@
 - Developing LLM and RAG applications for small businesses and personal applications.
 - Freelance contracts for clients developing MVPs for their products.
 - Developing open source web apps and mobile apps for my favorite gaming and hobby communities.
-
-![alt text](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*f5s5j7j2pFTZWDcMKeKmJA.gif)
-![1_f5s5j7j2pFTZWDcMKeKmJA](https://github.com/user-attachments/assets/952066cb-ff45-4d17-a3fc-dc579e1d433e)
 
 
 <!--
